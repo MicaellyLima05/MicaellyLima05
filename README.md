@@ -1,6 +1,6 @@
 ## Tudo bom contigo? 👋
 
-- 🤓 Meu nome é Micaelly, tenho 18 anos! Seja bem vindo(a) ao meu GitHub!
+- 🤓 Seja bem vindo(a) ao meu GitHub!
 
 - 📚 Atualmente estou cursando meu 2º período de Engenharia de Software na UNDB - São Luís. Além disso, recentemente participei do Programa Trilhas e durante os 6 meses do programa eu estive me capacitando em Programação BackEnd. Agora, estou dando continuidade aos estudos em HTML, CSS, Node.js e Python.
    
